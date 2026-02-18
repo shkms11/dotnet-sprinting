@@ -1,0 +1,7 @@
+Add:
+
+6️⃣ AppDbContext.cs (EF Core configuration)
+7️⃣ Domain Event Dispatcher using MediatR
+8️⃣ Global soft delete query filter
+9️⃣ Owned type mapping for Money
+🔟 Integration event publisher (RabbitMQ)
